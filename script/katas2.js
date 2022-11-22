@@ -47,4 +47,84 @@ console.log(power(2, 8));
 
  */
 
-// 
+// Quarta tarefa - Criar/Chamar Função e Retornar o Fatorial dele.
+
+function factorial(l) {
+    let fact = 1;
+    for (let i = 1; i <= l; i++) {
+        fact = multiply(fact, i);
+    }
+    return fact
+}
+console.log(factorial(4));
+
+alert(`Page made by: Lucas Maclean.`);
+alert(`Projeto consiste em usar os conhecimentos sobre: Funções, Operadores Lógicos e Aritméticos e Loops`);
+alert(`Tudo dentro do "Console"!`);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
