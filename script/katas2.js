@@ -47,7 +47,7 @@ console.log(power(2, 8));
 
  */
 
-// Quarta tarefa - Criar/Chamar Função e Retornar o Fatorial dele.
+// Quarta tarefa - Criar/Chamar Função e Retornar o Fatorial dele
 
 function factorial(l) {
     let fact = 1;
